@@ -10,10 +10,10 @@
     <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hacktoberfest%202019-Win%20a%20T--Shirt-critical"></img>
 </a>
-<a href="https://wajahatkarim.com">
+<a href="https://aryasoni98.github.io">
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></img>
 </a>
-    <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/fork">
+    <a href="https://github.com/a1s1cmd01/Hacktoberfest2019/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
     <a href="https://saythanks.io/to/wajahatkarim3">
@@ -26,8 +26,8 @@
 
 <div align="center">
   <sub>Built with ❤︎ by
-  <a href="https://twitter.com/WajahatKarim">Wajahat Karim</a> and
-  <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/graphs/contributors">
+  <a href="https://twitter.com/aryasoni98">Arya Soni</a> and
+  <a href="https://github.com/a1s1cmd01/Hacktoberfest2019/graphs/contributors">
     contributors
   </a>
 </div>
@@ -74,11 +74,11 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 Here's an example of my profile
 
 ```
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+### Arya Soni
+- Photo: https://github.com/a1s1cmd01/Hacktoberfest2019/blob/master/Image/aryasoni.jpg
+- Location: Delhi, India
+- Bio: Stack Developer , UI/UX Designer
+- Github: https://github.com/a1s1cmd01
 ***
 ```
 4. Now click on Commit button.
@@ -97,9 +97,9 @@ I am creating a simple website called as **Awesome Contributors of Hacktoberfest
 ## 👨 Developed & Maintained By
 
 ```
-Wajahat Karim
+Arya Soni
 ```
-- Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
+- Website (http://aryasoni98.github.io)
+- Twitter (http://twitter.com/aryasoni98)
+- Medium (http://www.medium.com/@ryss)
+- LinkedIn (http://www.linkedin.com/in/aryasoni)
