@@ -16,11 +16,6 @@
     <a href="https://github.com/a1s1cmd01/Hacktoberfest2019/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
-    <a href="https://saythanks.io/to/wajahatkarim3">
-        <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
-    </a>  <a href="https://www.paypal.me/WajahatKarim/5">
-        <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat"></img>
-    </a>
     
 </div>
 
